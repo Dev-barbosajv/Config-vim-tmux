@@ -1,4 +1,4 @@
-# Confi Vim
+# Config Vim
 
 Este repositório contém as configurações personalizadas do Vim que utilizo para programação e desenvolvimento.
 
